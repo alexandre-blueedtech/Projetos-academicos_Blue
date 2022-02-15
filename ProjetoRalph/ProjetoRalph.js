@@ -31,7 +31,7 @@ A mãe completamente horrorisada, tentou acalmar a criança e saber o que aconte
 - Filho por favor fala pra mamãe o que aconteceu, por favor! 
 Ralph então, desolado e tremulo respondeu... eu tentei correr mas ele sempre me alcançava, cheguei na mesa e tinha o copo e faca que usei no meu café da manhã...`)
 console.log();
-console.log(`Em sua cabeça, o mundo fica em camera lenta e em seguida começa um contagem.`);
+console.log(`Na hora, em sua cabeça, o mundo ficou em camera lenta e em seguida começou uma contagem... `);
 for(let i = 1; i <= 3; i++) {
     console.log(`${i}`);    
 }
@@ -99,7 +99,7 @@ Ralph se tornou um militar fora da curva, digno de filmes de Holywood, e por iss
 stt.piloto();
 
 }
-    // AQUI É A FASE DO PILOTO, DESENVOLVER A HISTORIA DENTRO DA FUNÇÃO PILOTO E PROSSEGUIR COM A HISTÓRIA
+ 
 },
 
 sniper: function(){

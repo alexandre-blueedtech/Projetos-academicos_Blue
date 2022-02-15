@@ -128,7 +128,7 @@ if(repet != 'sim'){
 
 function intervalo2 (){ 
     let hora = 8;
-    let minuto = 0;
+    let minuto = 0; 
     let tempo = 0;
 
 console.log(`20 de Março de 2031.
