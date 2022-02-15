@@ -97,12 +97,8 @@ Com os conflitos de interesses entre as grandes nações, especificamente Russia
 Ralph se tornou um militar fora da curva, digno de filmes de Holywood, e por isso se tornou tão vital nessa batalha...`);
 
 stt.piloto();
-
 }
-<<<<<<< HEAD
- 
-=======
->>>>>>> 0001123b730c554a69d80383619549d72fda9086
+
 },
 
 sniper: function(){
