@@ -99,7 +99,10 @@ Ralph se tornou um militar fora da curva, digno de filmes de Holywood, e por iss
 stt.piloto();
 
 }
+<<<<<<< HEAD
  
+=======
+>>>>>>> 0001123b730c554a69d80383619549d72fda9086
 },
 
 sniper: function(){
@@ -242,7 +245,6 @@ Nosso heroi foi recebido como heroi mundial por todas as nações do mundo, o ho
 Fim de jogo.`);
 }
 
-// FAZER A PARTE DO QUAL ELE MATA A PORRA DO XIN ZING ZAG KKKKKKKKKK 
 }
 
 },
